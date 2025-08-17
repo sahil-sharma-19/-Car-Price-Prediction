@@ -67,5 +67,20 @@ A user-friendly graphical interface (GUI) is implemented, allowing easy input of
 
 - **User Experience:** The GUI makes the tool accessible and easy to use for non-technical users.
 
+- ## Impact and Insights
+
+- Empowering users with an **interactive tool** (GUI) for accurate and fast car price estimation.
+
+- Dramatic **accuracy improvement** by utilizing ensemble models like XGBoost over basic regression.
+
+- Showcase of practical **feature engineering** and how augmented features (car age) strengthen model performance.
+
+- The modular nature allows **easy deployment and extensibility** for similar regression scenarios in other industries.
+
+- XGBoost’s R2 score of 0.889 suggests strong real-world reliability for the developed pricing tool.
+
+- This repository is a practical resource for data science learners and professionals building regression-based predictive systems with an easy-to-use GUI and robust accuracy.
+
+
 
 

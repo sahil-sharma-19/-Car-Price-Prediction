@@ -44,6 +44,28 @@ A user-friendly graphical interface (GUI) is implemented, allowing easy input of
 | wagon r  | 2011 | 2.85         | 4.15          | 5200       | Petrol    | Dealer      | Manual       | 0     |
 | swift    | 2014 | 4.60         | 6.87          | 42450      | Diesel    | Dealer      | Manual       | 0     |
 
+## Features and Highlights
+
+- **GUI:** A simple and intuitive interface for real-time car price prediction. Users enter car features and immediately receive the estimated price.
+
+- **Model Comparison:** Four regression models are benchmarked for prediction accuracy.
+
+- **Feature Engineering:** Includes a derived feature for car age, improving prediction performance.
+
+- **Automatic Encoding:** Categorical variables such as Fuel_Type, Seller_Type, and Transmission are transformed into numeric values for model training.
+
+- **Evaluation Metrics:** R2 scores for each model:
+  
+  | Model | R2 Score |
+  |-------|----------|
+  | LR    | 0.679    |
+  | RF    | 0.752    |
+  | GBR   | 0.868    |
+  | XG    | 0.889    |
+
+- **Preprocessing:** Handles missing values, normalizes data, and encodes features for improved model accuracy.
+
+- **User Experience:** The GUI makes the tool accessible and easy to use for non-technical users.
 
 
 

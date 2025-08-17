@@ -18,7 +18,7 @@ This Car Price Prediction project leverages machine learning to estimate the sel
 - Gradient Boosting Regressor (`GBR`)  
 - XGBoost Regressor (`XG`)
 
-- **GUI Technology:**  
+ **GUI Technology:**  
 A user-friendly graphical interface (GUI) is implemented, allowing easy input of car details and instant visualization of predicted prices.
 
 ## Data Source Information

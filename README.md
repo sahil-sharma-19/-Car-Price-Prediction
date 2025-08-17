@@ -17,3 +17,21 @@ This Car Price Prediction project leverages machine learning to estimate the sel
 - Random Forest (`RF`)  
 - Gradient Boosting Regressor (`GBR`)  
 - XGBoost Regressor (`XG`)
+
+## Data Source Information
+
+**Dataset File:**  
+- `car_data.csv`
+
+**Features Included:**  
+- `Car_Name`: Name of the car model  
+- `Year`: Year of manufacture  
+- `Selling_Price`: Price at which the car is being sold  
+- `Present_Price`: Current market price of the car  
+- `Kms_Driven`: Total kilometers the car has been driven  
+- `Fuel_Type`: Type of fuel (Petrol, Diesel, CNG)  
+- `Seller_Type`: Seller category (Dealer or Individual)  
+- `Transmission`: Transmission type (Manual or Automatic)  
+- `Owner`: Number of previous owners  
+
+**Sample Entries:**

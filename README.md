@@ -35,3 +35,9 @@ This Car Price Prediction project leverages machine learning to estimate the sel
 - `Owner`: Number of previous owners  
 
 **Sample Entries:**
+Car_Name	Year	Selling_Price	Present_Price	Kms_Driven	Fuel_Type	Seller_Type	Transmission	Owner
+ritz	2014	3.35	5.59	27,000	Petrol	Dealer	Manual	0
+sx4	2013	4.75	9.54	43,000	Diesel	Dealer	Manual	0
+ciaz	2017	7.25	9.85	6,900	Petrol	Dealer	Manual	0
+wagon r	2011	2.85	4.15	5,200	Petrol	Dealer	Manual	0
+swift	2014	4.60	6.87	42,450	Diesel	Dealer	Manual	0

@@ -20,9 +20,6 @@ This Car Price Prediction project leverages machine learning to estimate the sel
 
 ## Data Source Information
 
-**Dataset File:**  
-- `car_data.csv`
-
 **Features Included:**  
 - `Car_Name`: Name of the car model  
 - `Year`: Year of manufacture  
@@ -34,10 +31,13 @@ This Car Price Prediction project leverages machine learning to estimate the sel
 - `Transmission`: Transmission type (Manual or Automatic)  
 - `Owner`: Number of previous owners  
 
-**Sample Entries:**
-Car_Name	Year	Selling_Price	Present_Price	Kms_Driven	Fuel_Type	Seller_Type	Transmission	Owner
-ritz	2014	3.35	5.59	27,000	Petrol	Dealer	Manual	0
-sx4	2013	4.75	9.54	43,000	Diesel	Dealer	Manual	0
-ciaz	2017	7.25	9.85	6,900	Petrol	Dealer	Manual	0
-wagon r	2011	2.85	4.15	5,200	Petrol	Dealer	Manual	0
-swift	2014	4.60	6.87	42,450	Diesel	Dealer	Manual	0
+## Sample Data
+
+| Car_Name | Year | Selling_Price | Present_Price | Kms_Driven | Fuel_Type | Seller_Type | Transmission | Owner |
+|----------|------|--------------|---------------|------------|-----------|-------------|--------------|-------|
+| ritz     | 2014 | 3.35         | 5.59          | 27000      | Petrol    | Dealer      | Manual       | 0     |
+| sx4      | 2013 | 4.75         | 9.54          | 43000      | Diesel    | Dealer      | Manual       | 0     |
+| ciaz     | 2017 | 7.25         | 9.85          | 6900       | Petrol    | Dealer      | Manual       | 0     |
+| wagon r  | 2011 | 2.85         | 4.15          | 5200       | Petrol    | Dealer      | Manual       | 0     |
+| swift    | 2014 | 4.60         | 6.87          | 42450      | Diesel    | Dealer      | Manual       | 0     |
+

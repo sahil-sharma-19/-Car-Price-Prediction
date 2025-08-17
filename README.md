@@ -79,7 +79,8 @@ A user-friendly graphical interface (GUI) is implemented, allowing easy input of
 
 - XGBoost’s R2 score of 0.889 suggests strong real-world reliability for the developed pricing tool.
 
-- This repository is a practical resource for data science learners and professionals building regression-based predictive systems with an easy-to-use GUI and robust accuracy.
+
+ This repository is a practical resource for data science learners and professionals building regression-based predictive systems with an easy-to-use GUI and robust accuracy.
 
 
 

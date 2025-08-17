@@ -18,6 +18,9 @@ This Car Price Prediction project leverages machine learning to estimate the sel
 - Gradient Boosting Regressor (`GBR`)  
 - XGBoost Regressor (`XG`)
 
+- **GUI Technology:**  
+A user-friendly graphical interface (GUI) is implemented, allowing easy input of car details and instant visualization of predicted prices.
+
 ## Data Source Information
 
 **Features Included:**  
@@ -40,4 +43,7 @@ This Car Price Prediction project leverages machine learning to estimate the sel
 | ciaz     | 2017 | 7.25         | 9.85          | 6900       | Petrol    | Dealer      | Manual       | 0     |
 | wagon r  | 2011 | 2.85         | 4.15          | 5200       | Petrol    | Dealer      | Manual       | 0     |
 | swift    | 2014 | 4.60         | 6.87          | 42450      | Diesel    | Dealer      | Manual       | 0     |
+
+
+
 
